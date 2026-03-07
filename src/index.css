@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Ovo&family=Inter:wght@300;400;500;600&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Ovo", ui-serif, Georgia, serif;
+
+  --spacing-1: 0.125rem; /* 2px */
+  --spacing-2: 0.25rem; /* 4px */
+  --spacing-3: 0.375rem; /* 6px */
+  --spacing-4: 0.5rem; /* 8px */
+  --spacing-5: 0.75rem; /* 12px */
+  --spacing-6: 1rem; /* 16px */
+  --spacing-7: 1.25rem; /* 20px */
+  --spacing-8: 1.5rem; /* 24px */
+  --spacing-9: 2rem; /* 32px */
+  --spacing-10: 2.5rem; /* 40px */
+  --spacing-11: 3rem; /* 48px */
+  --spacing-12: 3.5rem; /* 56px */
+  --spacing-13: 4rem; /* 64px */
+  --spacing-14: 4.5rem; /* 72px */
+  --spacing-15: 5rem; /* 80px */
+  --spacing-16: 6rem; /* 96px */
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.no-scrollbar::-webkit-scrollbar {
+    display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.no-scrollbar {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}

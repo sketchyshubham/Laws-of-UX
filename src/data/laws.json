@@ -1,0 +1,1394 @@
+[
+  {
+    "id": "hicks-law",
+    "title": "Hick's Law",
+    "summary": "More options lead to harder decisions.",
+    "tip": "Reduce choices in product flows to help users decide faster and more confidently.",
+    "category": "Information",
+    "emoji": "🧠"
+  },
+  {
+    "id": "confirmation-bias",
+    "title": "Confirmation Bias",
+    "summary": "People look for evidence that confirms what they think.",
+    "tip": "Present multiple perspectives to challenge preexisting beliefs and broaden viewpoints.",
+    "category": "Information",
+    "emoji": "🔎"
+  },
+  {
+    "id": "priming",
+    "title": "Priming",
+    "summary": "Previous stimuli influence users' decisions.",
+    "tip": "Use carefully chosen visuals and language to shape user decisions.",
+    "category": "Information",
+    "emoji": "👁️"
+  },
+  {
+    "id": "cognitive-load",
+    "title": "Cognitive Load",
+    "summary": "Total mental effort required to complete a task.",
+    "tip": "Break information into clear chunks to lighten user effort.",
+    "category": "Information",
+    "emoji": "🚚"
+  },
+  {
+    "id": "anchoring-bias",
+    "title": "Anchoring Bias",
+    "summary": "Users rely heavily on the first piece of information.",
+    "tip": "Lead with the most relevant information to guide decisions.",
+    "category": "Information",
+    "emoji": "⚓"
+  },
+  {
+    "id": "nudge",
+    "title": "Nudge",
+    "summary": "Subtle hints can affect users decisions.",
+    "tip": "Use playful hints to encourage positive behaviors without force.",
+    "category": "Information",
+    "emoji": "👉"
+  },
+  {
+    "id": "progressive-disclosure",
+    "title": "Progressive Disclosure",
+    "summary": "Users are less overwhelmed if exposed to complex features later.",
+    "tip": "Unveil advanced options only as users need them to prevent cognitive overload.",
+    "category": "Information",
+    "emoji": "🧩"
+  },
+  {
+    "id": "fittss-law",
+    "title": "Fitts's Law",
+    "summary": "Large and close elements are easier to interact with.",
+    "tip": "Make primary buttons big and easy to reach for faster flows.",
+    "category": "Information",
+    "emoji": "🎯"
+  },
+  {
+    "id": "attentional-bias",
+    "title": "Attentional Bias",
+    "summary": "Users' thoughts filter what they pay attention to.",
+    "tip": "Guide focus with color, motion, or placement for key actions.",
+    "category": "Information",
+    "emoji": "🚦"
+  },
+  {
+    "id": "empathy-gap",
+    "title": "Empathy Gap",
+    "summary": "People underestimate how much emotions influence behaviors.",
+    "tip": "Account for user mood and motivation when planning flows.",
+    "category": "Information",
+    "emoji": "💡"
+  },
+  {
+    "id": "visual-anchors",
+    "title": "Visual Anchors",
+    "summary": "Elements used to guide users' eyes.",
+    "tip": "Use shapes, images, or lines to guide visual attention.",
+    "category": "Information",
+    "emoji": "🖼️"
+  },
+  {
+    "id": "von-restorff-effect",
+    "title": "Von Restorff Effect",
+    "summary": "People notice items that stand out more.",
+    "tip": "Highlight key actions with color, animation, or icons.",
+    "category": "Information",
+    "emoji": "👀"
+  },
+  {
+    "id": "banner-blindness",
+    "title": "Banner Blindness",
+    "summary": "Users tune out things they repeatedly see.",
+    "tip": "Refresh key visuals regularly and avoid 'banner' placement for CTAs.",
+    "category": "Information",
+    "emoji": "🎏"
+  },
+  {
+    "id": "decoy-effect",
+    "title": "Decoy Effect",
+    "summary": "Create a new option that's easy to discard.",
+    "tip": "Add a less appealing choice to nudge users to your desired action.",
+    "category": "Information",
+    "emoji": "🎲"
+  },
+  {
+    "id": "framing",
+    "title": "Framing",
+    "summary": "The way information is presented affects decisions.",
+    "tip": "Frame messaging to emphasize benefits and value.",
+    "category": "Information",
+    "emoji": "🖼️"
+  },
+  {
+    "id": "selective-attention",
+    "title": "Selective Attention",
+    "summary": "People filter out things from the environment when focused.",
+    "tip": "Minimize distracting elements in key flows.",
+    "category": "Information",
+    "emoji": "🔍"
+  },
+  {
+    "id": "survivorship-bias",
+    "title": "Survivorship Bias",
+    "summary": "People neglect things that don’t make it past selection.",
+    "tip": "Show both successes and failures to present a fair view.",
+    "category": "Information",
+    "emoji": "🗂️"
+  },
+  {
+    "id": "juxtaposition",
+    "title": "Juxtaposition",
+    "summary": "Elements close and similar are perceived as a unit.",
+    "tip": "Group similar actions and fields for easy scanning.",
+    "category": "Information",
+    "emoji": "🔗"
+  },
+  {
+    "id": "signifiers",
+    "title": "Signifiers",
+    "summary": "Elements communicate what they’ll do.",
+    "tip": "Use icons or descriptive buttons to clarify actions.",
+    "category": "Information",
+    "emoji": "🚦"
+  },
+  {
+    "id": "visual-hierarchy",
+    "title": "Visual Hierarchy",
+    "summary": "The order in which people perceive what they see.",
+    "tip": "Size and color indicate importance—use to guide key actions.",
+    "category": "Information",
+    "emoji": "📊"
+  },
+  {
+    "id": "peak-end-rule",
+    "title": "Peak-End Rule",
+    "summary": "People judge experiences based on their peak and end.",
+    "tip": "Delight users at peak and end moments (e.g., onboarding and checkout).",
+    "category": "Memory",
+    "emoji": "🏔️"
+  },
+  {
+    "id": "recency-effect",
+    "title": "Recency Effect",
+    "summary": "Most recent items are remembered best.",
+    "tip": "Place important information at the end of sequences.",
+    "category": "Memory",
+    "emoji": "🕒"
+  },
+  {
+    "id": "serial-position-effect",
+    "title": "Serial Position Effect",
+    "summary": "First and last items are remembered best.",
+    "tip": "Sequence CTAs and info so critical points are first and last.",
+    "category": "Memory",
+    "emoji": "🔢"
+  },
+  {
+    "id": "spacing-effect",
+    "title": "Spacing Effect",
+    "summary": "Learning is improved when information is spaced out.",
+    "tip": "Use spaced repetition in notifications or reminders.",
+    "category": "Memory",
+    "emoji": "⏳"
+  },
+  {
+    "id": "zeigarnik-effect",
+    "title": "Zeigarnik Effect",
+    "summary": "Unfinished tasks are remembered better.",
+    "tip": "Show progress bars and checklists for motivation.",
+    "category": "Memory",
+    "emoji": "📋"
+  },
+  {
+    "id": "chunking",
+    "title": "Chunking",
+    "summary": "Grouping content aids memory and comprehension.",
+    "tip": "Organize information into small, related groups.",
+    "category": "Memory",
+    "emoji": "🍫"
+  },
+  {
+    "id": "reminiscence-bump",
+    "title": "Reminiscence Bump",
+    "summary": "People recall events from adolescence and early adulthood better.",
+    "tip": "Reference nostalgic moments in design for deeper engagement.",
+    "category": "Memory",
+    "emoji": "👶"
+  },
+  {
+    "id": "mere-exposure-effect",
+    "title": "Mere Exposure Effect",
+    "summary": "Familiar things are liked better.",
+    "tip": "Use repeat branding and recurring elements for user comfort.",
+    "category": "Memory",
+    "emoji": "✨"
+  },
+  {
+    "id": "forgetting-curve",
+    "title": "Forgetting Curve",
+    "summary": "Memory fades rapidly without reinforcement.",
+    "tip": "Remind users of key actions or content after initial use.",
+    "category": "Memory",
+    "emoji": "🚶‍♂️"
+  },
+  {
+    "id": "picture-superiority-effect",
+    "title": "Picture Superiority Effect",
+    "summary": "Images are easier to recall than text.",
+    "tip": "Favor meaningful icons and illustrations.",
+    "category": "Memory",
+    "emoji": "🖼️"
+  },
+  {
+    "id": "law-of-pragnanz",
+    "title": "Law of Prägnanz (Simplicity)",
+    "summary": "People perceive complex images as simple forms.",
+    "tip": "Design clean layouts with clear boundaries to enhance comprehension.",
+    "category": "Meaning",
+    "emoji": "✅"
+  },
+  {
+    "id": "gestalt-proximity",
+    "title": "Gestalt Principle: Proximity",
+    "summary": "Objects near each other are grouped together.",
+    "tip": "Place related controls together for intuitive grouping.",
+    "category": "Meaning",
+    "emoji": "👬"
+  },
+  {
+    "id": "gestalt-similarity",
+    "title": "Gestalt Principle: Similarity",
+    "summary": "Similar objects are perceived as a group.",
+    "tip": "Use shape and color to visually group related items.",
+    "category": "Meaning",
+    "emoji": "🟦"
+  },
+  {
+    "id": "gestalt-continuity",
+    "title": "Gestalt Principle: Continuity",
+    "summary": "Elements arranged on a line or curve are perceived as flowing.",
+    "tip": "Align elements for smooth viewing paths.",
+    "category": "Meaning",
+    "emoji": "➰"
+  },
+  {
+    "id": "gestalt-closure",
+    "title": "Gestalt Principle: Closure",
+    "summary": "People perceive incomplete shapes as complete.",
+    "tip": "Suggest boundaries to highlight clickable zones.",
+    "category": "Meaning",
+    "emoji": "🔵"
+  },
+  {
+    "id": "gestalt-figure-ground",
+    "title": "Gestalt Principle: Figure-Ground",
+    "summary": "People distinguish objects from their background.",
+    "tip": "Ensure good contrast between key content and surroundings.",
+    "category": "Meaning",
+    "emoji": "🌑"
+  },
+  {
+    "id": "law-of-common-fate",
+    "title": "Law of Common Fate",
+    "summary": "Objects moving together are grouped together.",
+    "tip": "Synchronize animation when grouping actions.",
+    "category": "Meaning",
+    "emoji": "🚶‍♂️🚶‍♀️"
+  },
+  {
+    "id": "law-of-connectedness",
+    "title": "Law of Connectedness",
+    "summary": "Connected elements are seen as a unit.",
+    "tip": "Use lines or shapes to join related components.",
+    "category": "Meaning",
+    "emoji": "🧵"
+  },
+  {
+    "id": "iconicity",
+    "title": "Iconicity",
+    "summary": "Icons communicate meaning quickly.",
+    "tip": "Choose icons with clear, universal meaning for actions.",
+    "category": "Meaning",
+    "emoji": "🖲"
+  },
+  {
+    "id": "metaphor",
+    "title": "Metaphor",
+    "summary": "People understand new concepts by comparison.",
+    "tip": "Use familiar visual metaphors (trash can for delete) in UI.",
+    "category": "Meaning",
+    "emoji": "🗑️"
+  },
+  {
+    "id": "law-of-diminishing-returns",
+    "title": "Law of Diminishing Returns",
+    "summary": "Each additional unit of effort yields progressively less benefit.",
+    "tip": "Avoid overwhelming users with excessive steps or information in onboarding.",
+    "category": "Time",
+    "emoji": "📉"
+  },
+  {
+    "id": "reciprocity",
+    "title": "Reciprocity",
+    "summary": "People feel obliged to return favors.",
+    "tip": "Offer small, helpful features (like tips or free resources) to build goodwill.",
+    "category": "Meaning",
+    "emoji": "🔄"
+  },
+  {
+    "id": "scarcity",
+    "title": "Scarcity",
+    "summary": "Limited availability increases value.",
+    "tip": "Highlight limited features or time-based actions to drive urgency.",
+    "category": "Meaning",
+    "emoji": "⏳"
+  },
+  {
+    "id": "authority-bias",
+    "title": "Authority Bias",
+    "summary": "People trust advice from experts.",
+    "tip": "Reference credible sources and endorsements in your content.",
+    "category": "Meaning",
+    "emoji": "🦸‍♂️"
+  },
+  {
+    "id": "social-proof",
+    "title": "Social Proof",
+    "summary": "People imitate what others do.",
+    "tip": "Show positive testimonials and user counts to build trust.",
+    "category": "Meaning",
+    "emoji": "👥"
+  },
+  {
+    "id": "commitment-and-consistency",
+    "title": "Commitment and Consistency",
+    "summary": "Past actions drive future behavior.",
+    "tip": "Encourage small commitments, leading to stronger engagement over time.",
+    "category": "Meaning",
+    "emoji": "📝"
+  },
+  {
+    "id": "loss-aversion",
+    "title": "Loss Aversion",
+    "summary": "Losing feels worse than gaining feels good.",
+    "tip": "Frame messaging to emphasize avoiding loss, not just gaining rewards.",
+    "category": "Meaning",
+    "emoji": "💔"
+  },
+  {
+    "id": "endowment-effect",
+    "title": "Endowment Effect",
+    "summary": "People value things they own more.",
+    "tip": "Let users personalize, save, or unlock items to increase emotional connection.",
+    "category": "Meaning",
+    "emoji": "🏆"
+  },
+  {
+    "id": "temporal-discounting",
+    "title": "Temporal Discounting",
+    "summary": "People prefer immediate rewards over future ones.",
+    "tip": "Offer instant gratification for actions when possible.",
+    "category": "Time",
+    "emoji": "⏰"
+  },
+  {
+    "id": "peak-shift-effect",
+    "title": "Peak Shift Effect",
+    "summary": "People prefer exaggerated versions of familiar options.",
+    "tip": "Make key CTAs bold or amplify signature design elements.",
+    "category": "Meaning",
+    "emoji": "🚩"
+  },
+  {
+    "id": "false-consensus-effect",
+    "title": "False Consensus Effect",
+    "summary": "People overestimate how much others agree with them.",
+    "tip": "Run usability studies to uncover differing perspectives and preferences.",
+    "category": "Meaning",
+    "emoji": "🗣"
+  },
+  {
+    "id": "sunk-cost-fallacy",
+    "title": "Sunk Cost Fallacy",
+    "summary": "People continue investing due to prior commitment, even when it’s irrational.",
+    "tip": "Allow easy cancellation or reset options to prevent wasted effort.",
+    "category": "Meaning",
+    "emoji": "💸"
+  },
+  {
+    "id": "effort-justification",
+    "title": "Effort Justification",
+    "summary": "Tasks that require effort are valued more.",
+    "tip": "Let users customize, co-create, or win badges for their actions.",
+    "category": "Meaning",
+    "emoji": "🏅"
+  },
+  {
+    "id": "hyperbolic-discounting",
+    "title": "Hyperbolic Discounting",
+    "summary": "People prioritize immediate rewards over larger future gains.",
+    "tip": "Use instant feedback, rewards, or points to boost motivation.",
+    "category": "Time",
+    "emoji": "🎁"
+  },
+  {
+    "id": "opportunity-cost",
+    "title": "Opportunity Cost",
+    "summary": "People rarely consider what they’re giving up by making a choice.",
+    "tip": "Show alternative benefits or costs to nudge better decisions.",
+    "category": "Meaning",
+    "emoji": "🔀"
+  },
+  {
+    "id": "inattentional-blindness",
+    "title": "Inattentional Blindness",
+    "summary": "People miss what they’re not focused on.",
+    "tip": "Reduce on-screen clutter and highlight changes in UI context.",
+    "category": "Information",
+    "emoji": "🙈"
+  },
+  {
+    "id": "change-blindness",
+    "title": "Change Blindness",
+    "summary": "People fail to notice changes when distracted.",
+    "tip": "Use clear transitions and feedback for key screen changes.",
+    "category": "Information",
+    "emoji": "🔄"
+  },
+  {
+    "id": "illusory-correlation",
+    "title": "Illusory Correlation",
+    "summary": "People perceive a relationship where none exists.",
+    "tip": "Show clear data and avoid suggestive pairings.",
+    "category": "Information",
+    "emoji": "🔗"
+  },
+  {
+    "id": "planning-fallacy",
+    "title": "Planning Fallacy",
+    "summary": "People underestimate the time tasks will take.",
+    "tip": "Offer realistic estimates and progress updates.",
+    "category": "Time",
+    "emoji": "📆"
+  },
+  {
+    "id": "optimism-bias",
+    "title": "Optimism Bias",
+    "summary": "People believe they’re less likely to suffer negative outcomes.",
+    "tip": "Use gentle reminders and realistic messaging about risks.",
+    "category": "Meaning",
+    "emoji": "🙂"
+  },
+  {
+    "id": "choice-overload",
+    "title": "Choice Overload",
+    "summary": "Too many choices can lead to indecision and frustration.",
+    "tip": "Limit available options or help users quickly filter choices.",
+    "category": "Information",
+    "emoji": "🗂️"
+  },
+  {
+    "id": "default-effect",
+    "title": "Default Effect",
+    "summary": "People are likely to stick with preset options.",
+    "tip": "Set helpful defaults for common actions or selections.",
+    "category": "Meaning",
+    "emoji": "🎛"
+  },
+  {
+    "id": "negativity-bias",
+    "title": "Negativity Bias",
+    "summary": "Negative events are weighted more heavily than positive ones.",
+    "tip": "Address negative feedback rapidly and celebrate wins.",
+    "category": "Meaning",
+    "emoji": "⚡️"
+  },
+  {
+    "id": "endowment-progress-effect",
+    "title": "Endowment Progress Effect",
+    "summary": "Small initial progress increases motivation.",
+    "tip": "Show starter progress bars or pre-filled tasks to motivate action.",
+    "category": "Meaning",
+    "emoji": "🏁"
+  },
+  {
+    "id": "foot-in-the-door-technique",
+    "title": "Foot-in-the-Door Technique",
+    "summary": "Small requests increase likelihood of compliance with larger ones.",
+    "tip": "Start with simple actions, then gradually ask for more commitment.",
+    "category": "Meaning",
+    "emoji": "🚪"
+  },
+  {
+    "id": "door-in-the-face-technique",
+    "title": "Door-in-the-Face Technique",
+    "summary": "Refusing a large request increases chance of accepting a smaller one.",
+    "tip": "Begin with big asks, then offer the realistic alternative you really want.",
+    "category": "Meaning",
+    "emoji": "🚪"
+  },
+  {
+    "id": "hot-cold-empathy-gap",
+    "title": "Hot-Cold Empathy Gap",
+    "summary": "People struggle to predict their own behavior in different emotional states.",
+    "tip": "Design for real-world emotions, not idealized rational use.",
+    "category": "Meaning",
+    "emoji": "🌡️"
+  },
+  {
+    "id": "affect-heuristic",
+    "title": "Affect Heuristic",
+    "summary": "Decisions are strongly influenced by current emotions.",
+    "tip": "Foster positive feelings with delightful microinteractions and copy.",
+    "category": "Meaning",
+    "emoji": "💖"
+  },
+  {
+    "id": "ikea-effect",
+    "title": "IKEA Effect",
+    "summary": "People value things more when they help create them.",
+    "tip": "Let users personalize or customize elements of your product.",
+    "category": "Meaning",
+    "emoji": "🪑"
+  },
+  {
+    "id": "testing-effect",
+    "title": "Testing Effect",
+    "summary": "Retrieving information helps strengthen memory.",
+    "tip": "Encourage users to quiz themselves or recap main points for longer retention.",
+    "category": "Memory",
+    "emoji": "🧪"
+  },
+  {
+    "id": "pygmalion-effect",
+    "title": "Pygmalion Effect",
+    "summary": "High expectations lead to improved performance.",
+    "tip": "Set positive goals and use uplifting language in your UI.",
+    "category": "Meaning",
+    "emoji": "🌟"
+  },
+  {
+    "id": "placebo-effect",
+    "title": "Placebo Effect",
+    "summary": "Belief in benefit can lead to real improvement.",
+    "tip": "Frame instructions and feature releases in positive, confident language.",
+    "category": "Meaning",
+    "emoji": "💊"
+  },
+  {
+    "id": "cognitive-dissonance",
+    "title": "Cognitive Dissonance",
+    "summary": "People feel discomfort when holding conflicting beliefs.",
+    "tip": "Use clear messaging and consistent visuals to minimize confusion.",
+    "category": "Meaning",
+    "emoji": "🧩"
+  },
+  {
+    "id": "self-serving-bias",
+    "title": "Self-Serving Bias",
+    "summary": "Successes are attributed to self, failures to externals.",
+    "tip": "Celebrate users’ accomplishments, offer encouragement for setbacks.",
+    "category": "Meaning",
+    "emoji": "🙌"
+  },
+  {
+    "id": "availability-heuristic",
+    "title": "Availability Heuristic",
+    "summary": "People rely on immediate examples when evaluating options.",
+    "tip": "Use recent case studies, screenshots, and testimonials for clarity.",
+    "category": "Meaning",
+    "emoji": "📸"
+  },
+  {
+    "id": "temporal-contiguity",
+    "title": "Temporal Contiguity",
+    "summary": "Events that happen together are linked in memory.",
+    "tip": "Pair feedback with actions in real time for stronger association.",
+    "category": "Memory",
+    "emoji": "🔗"
+  },
+  {
+    "id": "backfire-effect",
+    "title": "Backfire Effect",
+    "summary": "Counter evidence can reinforce prior beliefs.",
+    "tip": "Guide patiently and avoid confrontational messaging.",
+    "category": "Meaning",
+    "emoji": "🔥"
+  },
+  {
+    "id": "own-race-bias",
+    "title": "Own-Race Bias",
+    "summary": "People better recognize faces of their own race.",
+    "tip": "Test with diverse imagery and personas.",
+    "category": "Meaning",
+    "emoji": "🌍"
+  },
+  {
+    "id": "halo-effect",
+    "title": "Halo Effect",
+    "summary": "Positive impressions spill over into unrelated areas.",
+    "tip": "Use attractive visual design to boost feature credibility.",
+    "category": "Meaning",
+    "emoji": "😇"
+  },
+  {
+    "id": "bystander-effect",
+    "title": "Bystander Effect",
+    "summary": "People are less likely to help when others are available.",
+    "tip": "Make call-to-action responsibilities clear and personalized.",
+    "category": "Meaning",
+    "emoji": "🚨"
+  },
+  {
+    "id": "social-loafing",
+    "title": "Social Loafing",
+    "summary": "Group settings reduce individual effort.",
+    "tip": "Recognize individual contributions and encourage sharing in teams.",
+    "category": "Meaning",
+    "emoji": "👥"
+  },
+  {
+    "id": "groupthink",
+    "title": "Groupthink",
+    "summary": "Desire for harmony suppresses alternative viewpoints.",
+    "tip": "Enable dissent and invite feedback for group decisions.",
+    "category": "Meaning",
+    "emoji": "👨‍👩‍👧‍👦"
+  },
+  {
+    "id": "spotlight-effect",
+    "title": "Spotlight Effect",
+    "summary": "People overestimate how much others notice them.",
+    "tip": "Normalize mistakes and foster a supportive community.",
+    "category": "Meaning",
+    "emoji": "🔦"
+  },
+  {
+    "id": "fundamental-attribution-error",
+    "title": "Fundamental Attribution Error",
+    "summary": "Overemphasize personality, underemphasize situation.",
+    "tip": "Offer context and encourage empathy for user actions.",
+    "category": "Meaning",
+    "emoji": "🎭"
+  },
+  {
+    "id": "just-world-hypothesis",
+    "title": "Just-World Hypothesis",
+    "summary": "People believe everyone gets what they deserve.",
+    "tip": "Prevent bias in feedback, highlight fairness and diversity.",
+    "category": "Meaning",
+    "emoji": "⚖️"
+  },
+  {
+    "id": "false-memory",
+    "title": "False Memory",
+    "summary": "People remember things inaccurately.",
+    "tip": "Offer clear logs, undo features, and confirmations.",
+    "category": "Memory",
+    "emoji": "🧠"
+  },
+  {
+    "id": "mood-congruent-memory",
+    "title": "Mood-Congruent Memory",
+    "summary": "Current mood biases recall of similar memories.",
+    "tip": "Use positive tone and image choices to favor pleasant recalls.",
+    "category": "Memory",
+    "emoji": "😊"
+  },
+  {
+    "id": "serial-recall",
+    "title": "Serial Recall",
+    "summary": "People remember sequences in the order presented.",
+    "tip": "Guide users step by step for best recall in flows.",
+    "category": "Memory",
+    "emoji": "🔢"
+  },
+  {
+    "id": "method-of-loci",
+    "title": "Method of Loci",
+    "summary": "Associating information with familiar places aids memory.",
+    "tip": "Use location-based metaphors for organizing content.",
+    "category": "Memory",
+    "emoji": "📍"
+  },
+  {
+    "id": "contrast-effect",
+    "title": "Contrast Effect",
+    "summary": "Judgments are impacted by comparison to previous items.",
+    "tip": "Use visual contrast to make key actions stand out.",
+    "category": "Meaning",
+    "emoji": "🎨"
+  },
+  {
+    "id": "projection-bias",
+    "title": "Projection Bias",
+    "summary": "People think future preferences will mirror present ones.",
+    "tip": "Gather updated feedback regularly—don't rely only on initial surveys.",
+    "category": "Meaning",
+    "emoji": "🪞"
+  },
+  {
+    "id": "illusion-of-transparency",
+    "title": "Illusion of Transparency",
+    "summary": "People overestimate how well others can understand them.",
+    "tip": "Use explicit wording and tooltips for clarity.",
+    "category": "Meaning",
+    "emoji": "🪟"
+  },
+  {
+    "id": "time-perception",
+    "title": "Time Perception",
+    "summary": "Time feels shorter when focused and longer when bored.",
+    "tip": "Break long tasks into stimulating subtasks or gamify progress.",
+    "category": "Time",
+    "emoji": "⏳"
+  },
+  {
+    "id": "temporal-patterning",
+    "title": "Temporal Patterning",
+    "summary": "Memory is boosted by rhythmic or patterned presentation.",
+    "tip": "Use animation or repetition for onboarding flows.",
+    "category": "Time",
+    "emoji": "🎵"
+  },
+  {
+    "id": "stage-bias",
+    "title": "Stage Bias",
+    "summary": "Early or late stage information gets more attention.",
+    "tip": "Begin and end flows with key content for stronger impact.",
+    "category": "Time",
+    "emoji": "⏮️"
+  },
+  {
+    "id": "completion-bias",
+    "title": "Completion Bias",
+    "summary": "People prefer tasks they can complete.",
+    "tip": "Favor quick wins and progress indicators that reach 100%.",
+    "category": "Time",
+    "emoji": "✅"
+  },
+  {
+    "id": "deadline-effect",
+    "title": "Deadline Effect",
+    "summary": "Urgency increases focus and performance.",
+    "tip": "Set time limits for key actions or reward timely flows.",
+    "category": "Time",
+    "emoji": "🕓"
+  },
+  {
+    "id": "surprise-effect",
+    "title": "Surprise Effect",
+    "summary": "Unexpected events capture attention.",
+    "tip": "Add delightful Easter eggs or microinteractions for engagement.",
+    "category": "Meaning",
+    "emoji": "🎉"
+  },
+  {
+    "id": "peak-shift-principle",
+    "title": "Peak Shift Principle",
+    "summary": "Users prefer exaggerated versions of familiar options.",
+    "tip": "Make key CTAs or elements bold and memorable.",
+    "category": "Meaning",
+    "emoji": "🚀"
+  },
+  {
+    "id": "availability-bias",
+    "title": "Availability Bias",
+    "summary": "Recently encountered ideas dominate decision-making.",
+    "tip": "Show recent uses or examples to reinforce desired actions.",
+    "category": "Information",
+    "emoji": "🗄"
+  },
+  {
+    "id": "schema-theory",
+    "title": "Schema Theory",
+    "summary": "People organize knowledge into mental frameworks.",
+    "tip": "Match navigation to users' expected mental maps.",
+    "category": "Meaning",
+    "emoji": "🧬"
+  },
+  {
+    "id": "prospect-theory",
+    "title": "Prospect Theory",
+    "summary": "People value gains and losses differently.",
+    "tip": "Highlight net positive outcomes and avoid risk language.",
+    "category": "Meaning",
+    "emoji": "📈"
+  },
+  {
+    "id": "primacy-effect",
+    "title": "Primacy Effect",
+    "summary": "First impressions weigh heavier.",
+    "tip": "Ensure your opening screens are polished and welcoming.",
+    "category": "Memory",
+    "emoji": "✨"
+  },
+  {
+    "id": "misattribution-of-arousal",
+    "title": "Misattribution of Arousal",
+    "summary": "Emotional states influence unrelated decisions.",
+    "tip": "Design calming flows for high-stakes or stressful steps.",
+    "category": "Meaning",
+    "emoji": "💓"
+  },
+  {
+    "id": "status-quo-bias",
+    "title": "Status Quo Bias",
+    "summary": "Users prefer things to remain unchanged.",
+    "tip": "Offer upgrades or improvements as easy, no-risk options.",
+    "category": "Meaning",
+    "emoji": "🛑"
+  },
+  {
+    "id": "appraisal-theory",
+    "title": "Appraisal Theory",
+    "summary": "Emotion is shaped by subjective interpretation of events.",
+    "tip": "Guide user reactions through positive framing and uplifting feedback.",
+    "category": "Meaning",
+    "emoji": "📋"
+  },
+  {
+    "id": "self-efficacy",
+    "title": "Self-Efficacy",
+    "summary": "Belief in one's ability boosts motivation.",
+    "tip": "Use affirmations, encouragement, and clear progress markers.",
+    "category": "Meaning",
+    "emoji": "💪"
+  },
+  {
+    "id": "social-facilitation",
+    "title": "Social Facilitation",
+    "summary": "Presence of others improves performance on simple tasks.",
+    "tip": "Gamify with leaderboards or public achievements for easy wins.",
+    "category": "Meaning",
+    "emoji": "🏆"
+  },
+  {
+    "id": "social-inhibition",
+    "title": "Social Inhibition",
+    "summary": "Presence of others decreases performance on complex tasks.",
+    "tip": "Let users practice privately before sharing or competing.",
+    "category": "Meaning",
+    "emoji": "🙉"
+  },
+  {
+    "id": "echo-chamber-effect",
+    "title": "Echo Chamber Effect",
+    "summary": "Environments reinforce shared beliefs.",
+    "tip": "Promote diverse content and support constructive debates.",
+    "category": "Meaning",
+    "emoji": "🗣️"
+  },
+  {
+    "id": "authority-effect",
+    "title": "Authority Effect",
+    "summary": "Advice from credible sources is easily accepted.",
+    "tip": "Leverage expert endorsements and trusted badges.",
+    "category": "Meaning",
+    "emoji": "👔"
+  },
+  {
+    "id": "gradient-effect",
+    "title": "Gradient Effect",
+    "summary": "Users naturally follow gradual progression.",
+    "tip": "Use color gradients or stepwise guidance in processes.",
+    "category": "Meaning",
+    "emoji": "🌈"
+  },
+  {
+    "id": "flashbulb-memory",
+    "title": "Flashbulb Memory",
+    "summary": "Vivid memories form from emotionally charged events.",
+    "tip": "Mark important milestones with memorable visuals and notifications.",
+    "category": "Memory",
+    "emoji": "📸"
+  },
+  {
+    "id": "heuristic-thinking",
+    "title": "Heuristic Thinking",
+    "summary": "People use mental shortcuts for quick decisions.",
+    "tip": "Standardize choices, automate frequent actions, and highlight key routes.",
+    "category": "Meaning",
+    "emoji": "🚦"
+  },
+  {
+    "id": "implicit-bias",
+    "title": "Implicit Bias",
+    "summary": "Unconscious attitudes affect understanding and actions.",
+    "tip": "Audit design and language for neutrality.",
+    "category": "Meaning",
+    "emoji": "🤔"
+  },
+  {
+    "id": "latent-inhibition",
+    "title": "Latent Inhibition",
+    "summary": "Familiar stimuli are less noticeable.",
+    "tip": "Use fresh visuals or microcopy to highlight updates.",
+    "category": "Meaning",
+    "emoji": "🌱"
+  },
+  {
+    "id": "misattribution-effect",
+    "title": "Misattribution Effect",
+    "summary": "Users link feelings or ideas to the wrong source.",
+    "tip": "Clarify cause/effect and make feedback direct.",
+    "category": "Meaning",
+    "emoji": "🔍"
+  },
+  {
+    "id": "prototype-effect",
+    "title": "Prototype Effect",
+    "summary": "Typical examples are remembered better than atypical ones.",
+    "tip": "Focus on core/common use cases in feature design.",
+    "category": "Meaning",
+    "emoji": "📦"
+  },
+  {
+    "id": "anchoring-effect",
+    "title": "Anchoring Effect",
+    "summary": "People give undue weight to the first piece of information.",
+    "tip": "Start with the most important fact or CTA.",
+    "category": "Meaning",
+    "emoji": "🏷️"
+  },
+  {
+    "id": "framing-bias",
+    "title": "Framing Bias",
+    "summary": "Decisions are affected by how information is presented.",
+    "tip": "Frame options with positive and clear wording.",
+    "category": "Information",
+    "emoji": "🖼️"
+  },
+  {
+    "id": "the-dunning-kruger-effect",
+    "title": "The Dunning-Kruger Effect",
+    "summary": "People with low ability overestimate competence.",
+    "tip": "Provide gentle feedback, guides, and paths for self-improvement.",
+    "category": "Meaning",
+    "emoji": "🧐"
+  },
+  {
+    "id": "frequency-illusion-baader-meinhof",
+    "title": "Frequency Illusion (Baader-Meinhof)",
+    "summary": "Seeing something once makes it seem suddenly everywhere.",
+    "tip": "Repeat important messages for desired visibility.",
+    "category": "Meaning",
+    "emoji": "🔂"
+  },
+  {
+    "id": "perceptual-set",
+    "title": "Perceptual Set",
+    "summary": "Expectations shape perception.",
+    "tip": "Preview flows and clarify expected results up front.",
+    "category": "Meaning",
+    "emoji": "👓"
+  },
+  {
+    "id": "context-effect",
+    "title": "Context Effect",
+    "summary": "Surroundings influence interpretation.",
+    "tip": "Match imagery and copy to the user’s task and state.",
+    "category": "Meaning",
+    "emoji": "🌆"
+  },
+  {
+    "id": "hindsight-bias",
+    "title": "Hindsight Bias",
+    "summary": "Events seem predictable after they happen.",
+    "tip": "Document reasoning and decisions for reflection.",
+    "category": "Memory",
+    "emoji": "🔮"
+  },
+  {
+    "id": "misinformation-effect",
+    "title": "Misinformation Effect",
+    "summary": "Memory can be altered by exposure to misleading information.",
+    "tip": "Always provide clear notifications, confirmations, and records.",
+    "category": "Memory",
+    "emoji": "🔏"
+  },
+  {
+    "id": "position-effect",
+    "title": "Position Effect",
+    "summary": "Placement impacts selection; extremes are more likely to be chosen.",
+    "tip": "Arrange important choices at the beginning or end of a sequence.",
+    "category": "Meaning",
+    "emoji": "📍"
+  },
+  {
+    "id": "self-reference-effect",
+    "title": "Self-Reference Effect",
+    "summary": "Information related to oneself is better remembered.",
+    "tip": "Personalize messages and let users attach their name or avatar.",
+    "category": "Memory",
+    "emoji": "🧑"
+  },
+  {
+    "id": "frequency-principle",
+    "title": "Frequency Principle",
+    "summary": "Repeated exposure increases recall and familiarity.",
+    "tip": "Remind users of features or tasks as needed.",
+    "category": "Memory",
+    "emoji": "🔁"
+  },
+  {
+    "id": "spacing-principle",
+    "title": "Spacing Principle",
+    "summary": "Breaks between repetitions improve learning retention.",
+    "tip": "Use spaced repetition for onboarding and reminders.",
+    "category": "Memory",
+    "emoji": "📆"
+  },
+  {
+    "id": "interference-effect",
+    "title": "Interference Effect",
+    "summary": "Similar information can distract or overwrite memory.",
+    "tip": "Keep instructions simple and avoid presenting unrelated details.",
+    "category": "Memory",
+    "emoji": "🔀"
+  },
+  {
+    "id": "encoding-specificity-principle",
+    "title": "Encoding Specificity Principle",
+    "summary": "Context at learning improves recall.",
+    "tip": "Match cues (color, icon, copy) for reminders and confirmation dialogs.",
+    "category": "Memory",
+    "emoji": "📝"
+  },
+  {
+    "id": "overconfidence-effect",
+    "title": "Overconfidence Effect",
+    "summary": "People overestimate their own ability, skills, and judgment.",
+    "tip": "Give gentle nudges to validate, review, and check decisions.",
+    "category": "Meaning",
+    "emoji": "😌"
+  },
+  {
+    "id": "goal-gradient-effect",
+    "title": "Goal Gradient Effect",
+    "summary": "Motivation increases as people get closer to a goal.",
+    "tip": "Show countdown, motivational messages, and 'Almost there!' prompts.",
+    "category": "Meaning",
+    "emoji": "🎯"
+  },
+  {
+    "id": "restorative-effect",
+    "title": "Restorative Effect",
+    "summary": "Pauses or breaks restore attention and improve engagement.",
+    "tip": "Suggest rest breaks for long tasks or learning modules.",
+    "category": "Time",
+    "emoji": "🛌"
+  },
+  {
+    "id": "congruence-principle",
+    "title": "Congruence Principle",
+    "summary": "Consistency of visual and verbal cues aids memory and trust.",
+    "tip": "Keep UI labels, instructions, and feedback in harmony.",
+    "category": "Meaning",
+    "emoji": "🧩"
+  },
+  {
+    "id": "distinctiveness-effect",
+    "title": "Distinctiveness Effect",
+    "summary": "Distinct items are more memorable.",
+    "tip": "Make your primary CTA pop with color, shapes, and motion.",
+    "category": "Meaning",
+    "emoji": "🌟"
+  },
+  {
+    "id": "subjective-contour-effect",
+    "title": "Subjective Contour Effect",
+    "summary": "Brain fills in missing parts of visual information.",
+    "tip": "Use suggestive shapes and whitespace for elegant design.",
+    "category": "Meaning",
+    "emoji": "⬜"
+  },
+  {
+    "id": "dual-coding-theory",
+    "title": "Dual Coding Theory",
+    "summary": "Information presented in multiple formats is easier to learn.",
+    "tip": "Combine text with icons or diagrams in explanations.",
+    "category": "Memory",
+    "emoji": "🇦🇧"
+  },
+  {
+    "id": "retroactive-interference",
+    "title": "Retroactive Interference",
+    "summary": "New information can disrupt recall of previous content.",
+    "tip": "Use confirmations and reminders to reinforce earlier learning.",
+    "category": "Memory",
+    "emoji": "🔄"
+  },
+  {
+    "id": "proactive-interference",
+    "title": "Proactive Interference",
+    "summary": "Old information hinders learning of new content.",
+    "tip": "Use clear onboarding and quick feedback to anchor new behaviors.",
+    "category": "Memory",
+    "emoji": "⏮️"
+  },
+  {
+    "id": "semantic-encoding",
+    "title": "Semantic Encoding",
+    "summary": "Meaningful content is easier to remember.",
+    "tip": "Tie new concepts to real-life use cases.",
+    "category": "Memory",
+    "emoji": "🔤"
+  },
+  {
+    "id": "elaboration-principle",
+    "title": "Elaboration Principle",
+    "summary": "More detailed mental processing improves learning.",
+    "tip": "Offer deeper dives and 'learn more' links for interested users.",
+    "category": "Memory",
+    "emoji": "📚"
+  },
+  {
+    "id": "transfer-of-learning",
+    "title": "Transfer of Learning",
+    "summary": "Knowledge from one area helps in another.",
+    "tip": "Draw analogies and reference familiar scenarios for new features.",
+    "category": "Memory",
+    "emoji": "🔁"
+  },
+  {
+    "id": "capacity-limits",
+    "title": "Capacity Limits",
+    "summary": "Short-term memory holds about 7 items.",
+    "tip": "Chunk information and keep screens simple and focused.",
+    "category": "Memory",
+    "emoji": "7️⃣"
+  },
+  {
+    "id": "subitizing",
+    "title": "Subitizing",
+    "summary": "Quick, accurate judgment is easier for small quantities.",
+    "tip": "Display less than five items for instant comprehension.",
+    "category": "Memory",
+    "emoji": "🔢"
+  },
+  {
+    "id": "repetition-effect",
+    "title": "Repetition Effect",
+    "summary": "Repeating information boosts memory.",
+    "tip": "Echo key ideas and actions at crucial moments.",
+    "category": "Memory",
+    "emoji": "🔁"
+  },
+  {
+    "id": "sleep-effect",
+    "title": "Sleep Effect",
+    "summary": "Sleep strengthens new memories.",
+    "tip": "Encourage meaningful breaks and healthy habits.",
+    "category": "Memory",
+    "emoji": "😴"
+  },
+  {
+    "id": "neglect-of-probability",
+    "title": "Neglect of Probability",
+    "summary": "Risk is overlooked unless made explicit.",
+    "tip": "State odds, risks, and consequences clearly for transparency.",
+    "category": "Meaning",
+    "emoji": "🎲"
+  },
+  {
+    "id": "barnum-effect",
+    "title": "Barnum Effect",
+    "summary": "Vague, general statements are accepted as personally meaningful.",
+    "tip": "Personalize onboarding, updates, and suggestions using user context.",
+    "category": "Meaning",
+    "emoji": "🎪"
+  },
+  {
+    "id": "illusion-of-control",
+    "title": "Illusion of Control",
+    "summary": "People believe they can influence uncontrollable outcomes.",
+    "tip": "Offer toggles and customized controls to foster engagement.",
+    "category": "Meaning",
+    "emoji": "🎮"
+  },
+  {
+    "id": "information-overload",
+    "title": "Information Overload",
+    "summary": "Too much info impairs decision-making.",
+    "tip": "Keep flows minimal and prioritize essential content.",
+    "category": "Information",
+    "emoji": "📚"
+  },
+  {
+    "id": "redundancy-principle",
+    "title": "Redundancy Principle",
+    "summary": "Simple redundancy (e.g., text + icons) improves comprehension.",
+    "tip": "Echo key actions with icons, labels, and feedback.",
+    "category": "Information",
+    "emoji": "🅾️"
+  },
+  {
+    "id": "attribution-theory",
+    "title": "Attribution Theory",
+    "summary": "People seek explanations for events and behaviors.",
+    "tip": "Clarify cause, effect, and context in feedback and notifications.",
+    "category": "Meaning",
+    "emoji": "🕵️"
+  },
+  {
+    "id": "conjunction-fallacy",
+    "title": "Conjunction Fallacy",
+    "summary": "People assume specific conditions are more probable than general ones.",
+    "tip": "Simplify choices and clarify probabilities.",
+    "category": "Meaning",
+    "emoji": "🔮"
+  },
+  {
+    "id": "regression-to-the-mean",
+    "title": "Regression to the Mean",
+    "summary": "Extreme cases tend toward average over time.",
+    "tip": "Show average statistics and normalize benchmarks.",
+    "category": "Meaning",
+    "emoji": "📉"
+  },
+  {
+    "id": "similarity-effect",
+    "title": "Similarity Effect",
+    "summary": "Similar items are grouped and selected together.",
+    "tip": "Use color-coding or icons to group related features.",
+    "category": "Meaning",
+    "emoji": "🟦"
+  },
+  {
+    "id": "temporal-context-effect",
+    "title": "Temporal Context Effect",
+    "summary": "Timing and order affect how events are perceived.",
+    "tip": "Order onboarding steps logically and with consistent timing.",
+    "category": "Time",
+    "emoji": "🕓"
+  },
+  {
+    "id": "reciprocal-teaching",
+    "title": "Reciprocal Teaching",
+    "summary": "Learning is enhanced by alternating roles.",
+    "tip": "Let users share tutorials or tips with peers.",
+    "category": "Meaning",
+    "emoji": "🔄"
+  },
+  {
+    "id": "mental-models",
+    "title": "Mental Models",
+    "summary": "Users apply existing frameworks to new experiences.",
+    "tip": "Match navigation patterns to familiar apps and flows.",
+    "category": "Meaning",
+    "emoji": "🧠"
+  },
+  {
+    "id": "trial-and-error-learning",
+    "title": "Trial-and-Error Learning",
+    "summary": "Multiple attempts lead to better solutions.",
+    "tip": "Let users experiment, undo actions, and celebrate improvement.",
+    "category": "Memory",
+    "emoji": "🔬"
+  },
+  {
+    "id": "explicit-learning",
+    "title": "Explicit Learning",
+    "summary": "Direct instruction speeds up new skill acquisition.",
+    "tip": "Provide step-by-step guides and clear tooltips.",
+    "category": "Memory",
+    "emoji": "📖"
+  },
+  {
+    "id": "implicit-learning",
+    "title": "Implicit Learning",
+    "summary": "Learning happens unconsciously through exposure.",
+    "tip": "Use repetition and ambient guidance for subtle teaching.",
+    "category": "Memory",
+    "emoji": "👻"
+  },
+  {
+    "id": "jakobs-law",
+    "title": "Jakob's Law",
+    "summary": "Users spend most of their time on other sites.",
+    "tip": "Users prefer your site to work the same way as all the other sites they already know.",
+    "category": "Information",
+    "emoji": "🌐"
+  },
+  {
+    "id": "trust-bias",
+    "title": "Trust Bias",
+    "summary": "People are more likely to trust systems that appear reliable.",
+    "tip": "Use professional design and clear language to build trust.",
+    "category": "Meaning",
+    "emoji": "🤝"
+  },
+  {
+    "id": "doherty-threshold",
+    "title": "Doherty Threshold",
+    "summary": "Productivity soars when computer and user interact at a pace (<400ms) that ensures neither has to wait on the other.",
+    "tip": "Provide system feedback within 400ms to keep users engaged.",
+    "category": "Time",
+    "emoji": "⚡"
+  },
+  {
+    "id": "feedback-loop",
+    "title": "Feedback Loop",
+    "summary": "Continuous feedback helps users adjust their actions.",
+    "tip": "Provide immediate feedback for user actions to guide behavior.",
+    "category": "Meaning",
+    "emoji": "🔄"
+  },
+  {
+    "id": "recognition-over-recall",
+    "title": "Recognition Over Recall",
+    "summary": "It's easier to recognize things than recall them from memory.",
+    "tip": "Minimize the user's memory load by making objects, actions, and options visible.",
+    "category": "Memory",
+    "emoji": "👀"
+  },
+  {
+    "id": "gamification-facilitation",
+    "title": "Gamification Facilitation",
+    "summary": "Game-like elements increase engagement and motivation.",
+    "tip": "Use points, badges, and leaderboards to encourage desired behaviors.",
+    "category": "Meaning",
+    "emoji": "🎮"
+  },
+  {
+    "id": "social-presence",
+    "title": "Social Presence",
+    "summary": "The sense of being with others in a virtual environment.",
+    "tip": "Use avatars and real-time indicators to create a sense of community.",
+    "category": "Meaning",
+    "emoji": "👥"
+  },
+  {
+    "id": "teslers-law",
+    "title": "Tesler's Law",
+    "summary": "Every application has an inherent amount of complexity that cannot be removed.",
+    "tip": "Ensure that the complexity is handled by the system, not the user.",
+    "category": "Information",
+    "emoji": "🧩"
+  },
+  {
+    "id": "occams-razor",
+    "title": "Occam's Razor",
+    "summary": "The simplest solution is usually the correct one.",
+    "tip": "Remove unnecessary elements to reduce complexity.",
+    "category": "Meaning",
+    "emoji": "🪒"
+  },
+  {
+    "id": "postels-law",
+    "title": "Postel's Law",
+    "summary": "Be conservative in what you do, be liberal in what you accept from others.",
+    "tip": "Accept variable input from users, but provide consistent output.",
+    "category": "Information",
+    "emoji": "📥"
+  },
+  {
+    "id": "reward-bias",
+    "title": "Reward Bias",
+    "summary": "People are motivated by the promise of a reward.",
+    "tip": "Offer tangible or intangible rewards for completing tasks.",
+    "category": "Meaning",
+    "emoji": "🎁"
+  }
+]
