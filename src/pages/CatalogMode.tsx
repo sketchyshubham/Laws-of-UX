@@ -98,7 +98,7 @@ export default function CatalogMode() {
               </div>
 
               {/* Second Line: Heading */}
-              <h3 className="font-serif font-bold text-xl text-stone-900 mb-2 leading-tight">
+              <h3 className="font-display font-bold text-xl text-stone-900 mb-2 leading-tight">
                 {law.title}
               </h3>
 
