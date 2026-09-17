@@ -40,7 +40,7 @@ export default function MatcherMode() {
       <div className="bg-white/75 backdrop-blur-md p-8 rounded-3xl border border-white/20 shadow-none relative overflow-hidden">
         <div className="relative z-10 space-y-6">
           <div className="space-y-4">
-            <h2 className="font-serif text-2xl font-bold text-stone-900">
+            <h2 className="font-display text-2xl font-bold text-stone-900">
               Supercharge your designs. Describe your screen
             </h2>
             <textarea
@@ -110,9 +110,9 @@ export default function MatcherMode() {
               <div className="relative z-10 space-y-4">
                 <div className="flex items-center gap-3 text-yellow-200">
                   <Lightbulb size={20} />
-                  <span className="font-serif font-bold uppercase tracking-wider text-sm">Core Strategy</span>
+                  <span className="font-display font-bold uppercase tracking-wider text-sm">Core Strategy</span>
                 </div>
-                <p className="text-lg md:text-xl font-serif leading-relaxed text-white/90">
+                <p className="text-lg md:text-xl font-display font-bold leading-relaxed text-white/90">
                   {suggestion.coreSuggestion}
                 </p>
               </div>
@@ -120,7 +120,7 @@ export default function MatcherMode() {
 
             <div className="space-y-6">
               <div className="flex items-center justify-between px-2">
-                <h3 className="font-serif text-xl font-bold text-stone-900">Recommended Principles</h3>
+                <h3 className="font-display text-xl font-bold text-stone-900">Recommended Principles</h3>
                 <span className="px-3 py-1 bg-white/75 backdrop-blur-sm border border-white/20 rounded-full text-xs font-bold text-stone-500 uppercase tracking-wide">
                   {suggestion.relevantLaws.length} Matches
                 </span>
@@ -152,7 +152,7 @@ export default function MatcherMode() {
                         </div>
 
                         {/* Second Line: Heading */}
-                        <h4 className="font-serif font-bold text-xl text-stone-900 mb-3 leading-tight">
+                        <h4 className="font-display font-bold text-xl text-stone-900 mb-3 leading-tight">
                           {law.title}
                         </h4>
 
