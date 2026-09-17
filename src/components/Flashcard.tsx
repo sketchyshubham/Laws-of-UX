@@ -34,7 +34,7 @@ const Flashcard = ({ law }: FlashcardProps) => {
             
             <div className="flex-1 flex flex-col items-center justify-center">
               <div className="text-6xl mb-9 bg-white/30 p-6 rounded-2xl shadow-inner backdrop-blur-sm">{law.emoji}</div>
-              <h3 className="font-serif text-3xl font-bold text-stone-900 mb-6 tracking-tight">{law.title}</h3>
+              <h3 className="font-display text-3xl font-bold text-stone-900 mb-6 tracking-tight">{law.title}</h3>
               <p className="font-sans text-stone-500 text-lg leading-relaxed max-w-md mx-auto">{law.summary}</p>
             </div>
             
@@ -53,7 +53,7 @@ const Flashcard = ({ law }: FlashcardProps) => {
         >
           <div className="flex-1 flex flex-col items-center justify-center">
             <h4 className="font-sans text-xs font-bold text-stone-400 uppercase tracking-[0.2em] mb-8">Practical Application</h4>
-            <p className="font-serif text-2xl font-medium leading-relaxed mb-9 max-w-md mx-auto">"{law.tip}"</p>
+            <p className="font-display font-bold text-2xl leading-relaxed mb-9 max-w-md mx-auto">"{law.tip}"</p>
           </div>
           
           <a
