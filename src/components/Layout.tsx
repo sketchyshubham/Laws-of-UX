@@ -32,7 +32,7 @@ export default function Layout({ children }: { children: ReactNode }) {
 
       {/* Header */}
       <header className="relative z-20 pt-8 pb-0 px-6 flex flex-col items-center gap-6 flex-shrink-0">
-        <h1 className="font-serif font-bold text-4xl tracking-tight text-stone-900">Witty</h1>
+        <h1 className="font-display font-bold text-4xl tracking-tight text-stone-900">Witty</h1>
         
         {/* Navigation Tabs */}
         <nav className="flex items-center gap-8 border-b border-stone-200/50 w-full justify-center max-w-md mx-auto relative">
@@ -45,7 +45,7 @@ export default function Layout({ children }: { children: ReactNode }) {
                 className="relative pb-3 px-2 group"
               >
                 <span className={clsx(
-                  "font-serif font-bold text-lg transition-colors duration-300",
+                  "font-display font-bold text-lg transition-colors duration-300",
                   isActive ? "text-stone-900" : "text-stone-400 group-hover:text-stone-600"
                 )}>
                   {item.label}
